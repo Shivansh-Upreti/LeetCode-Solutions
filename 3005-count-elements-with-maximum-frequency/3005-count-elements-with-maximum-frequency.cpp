@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxFrequencyElements(vector<int>& nums) {
         int maxC=-1;
-        map<int,int> m;
+        unordered_map<int,int> m;
         for(int n:nums){
             m[n]++;
             maxC=max(maxC,m[n]);
