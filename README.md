@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [3870-count-commas-in-range](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Hash Table
 |  |
 | ------- |
