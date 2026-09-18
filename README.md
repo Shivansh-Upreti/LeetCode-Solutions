@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
