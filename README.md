@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3870-count-commas-in-range](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Hash Table
 |  |
@@ -113,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
