@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
