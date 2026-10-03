@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
