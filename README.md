@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0901-online-stock-span) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Queue
 |  |
 | ------- |
