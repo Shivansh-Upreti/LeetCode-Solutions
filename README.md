@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
