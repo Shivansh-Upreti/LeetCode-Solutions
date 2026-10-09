@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0876-middle-of-the-linked-list](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
