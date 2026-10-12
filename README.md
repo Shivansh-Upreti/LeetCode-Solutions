@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0292-nim-game) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Bracket Sequences
 |  |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
