@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0148-sort-list](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -280,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
