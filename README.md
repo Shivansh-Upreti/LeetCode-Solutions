@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quicksort
 |  |
