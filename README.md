@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0704-binary-search](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
