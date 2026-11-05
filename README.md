@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2469-convert-the-temperature](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
