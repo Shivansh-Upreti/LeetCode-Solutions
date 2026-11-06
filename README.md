@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
