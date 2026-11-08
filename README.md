@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
