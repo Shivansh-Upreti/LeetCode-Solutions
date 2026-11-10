@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1748-sum-of-unique-elements](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
