@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
