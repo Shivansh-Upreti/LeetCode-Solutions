@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0643-maximum-average-subarray-i](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
