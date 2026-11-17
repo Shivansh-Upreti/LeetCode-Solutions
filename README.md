@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2942-find-words-containing-character](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search Tree
 |  |
 | ------- |
