@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shivansh-Upreti/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
